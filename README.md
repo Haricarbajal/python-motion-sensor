@@ -29,3 +29,23 @@ El método principal consiste en calcular la diferencia absoluta entre imágenes
    ```bash
    git clone https://github.com/tu-usuario/python-motion-sensor.git
    cd python-motion-sensor
+markdown
+## Instalación y Uso
+
+### Instalación de dependencias
+```bash
+pip install opencv-python numpy
+Ejecución del programa
+bash
+python main.py
+Ventanas de visualización
+Al ejecutarse, se mostrarán tres ventanas:
+
+Imagen original con zonas marcadas donde se detecta movimiento
+
+Imagen diferencial que resalta los cambios entre frames
+
+Zonas de movimiento detectadas
+
+Controles
+Presiona la tecla q en cualquiera de las ventanas para salir del programa
