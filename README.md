@@ -27,7 +27,7 @@ El método principal consiste en calcular la diferencia absoluta entre imágenes
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/python-motion-sensor.git
+   git clone https://github.com/Haricarbajal/python-motion-sensor.git
    cd python-motion-sensor
 markdown
 ## Instalación y Uso
